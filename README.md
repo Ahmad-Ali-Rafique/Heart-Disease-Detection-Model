@@ -21,5 +21,6 @@ Feel free to reach out if you have any questions or suggestions regarding this p
 
 - **Email**: arsbussiness@gmail.com
 - **LinkedIn**: [Ahmad Ali Rafique](https://www.linkedin.com/in/ahmad-ali-rafique/)
-
+- 
+## [Ahmad Ali CV](https://drive.google.com/file/d/1bNLIx1j85e8ax21ZEC0DPt5C1at8vHjv/view?usp=sharing)
 Thank you for visiting my repository!
